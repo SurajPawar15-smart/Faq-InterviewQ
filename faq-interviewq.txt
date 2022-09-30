@@ -1,0 +1,16 @@
+
+Python FAQ:
+What is Polymorphism?
+What is super?
+What is method overriding?
+
+
+Java FAQ:
+Can the static methods be overloaded?
+Define Copy constructor in java.
+Can the static methods be overridden?
+
+Angular FAQ:
+What is Angular? Why was it introduced?
+What are controllers?
+Differentiate between Angular and AngularJS
